@@ -2,6 +2,6 @@
 
 This is a simple readme file
 
-Adding test text here again
+## Heading 2
 
-On a branch
+This is bound to cause trouble
